@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Weather App",
+    "image": "NA",
+    "github": "http://github.com/markmos1991/weather-dashboard",
+    "deployed": "link"
+  },
+
+  {
+    "id": 2,
+    "title": "Daily Planner",
+    "image": "NA",
+    "github": "link",
+    "deployed": "link"
+  },
+
+  {
+    "id": 3,
+    "title": "Team Generator",
+    "image": "NA",
+    "github": "link",
+    "deployed": "link"
+  },
+
+  {
+    "id": 4,
+    "title": "Readme Generator",
+    "image": "NA",
+    "github": "link",
+    "deployed": "link"
+  },
+
+  {
+    "id": 5,
+    "title": "ArTrek",
+    "image": "NA",
+    "github": "link",
+    "deployed": "link"
+  },
+
+  {
+    "id": 6,
+    "title": "Password Generator",
+    "image": "NA",
+    "github": "link",
+    "deployed": "link"
+  }
+
+]
+
+
